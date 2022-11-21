@@ -2,7 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeowonPark001&count_bg=%23F1E6B2&title_bg=%23C1A7E2&icon=opsgenie.svg&icon_color=%23F1E6B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeowonPark001&layout=compact&bg_color=0,c1a7e2,f1e6b2&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeowonPark001&show_icons=true&icon_color=ffffff&count_private=true&bg_color=0,c1a7e2,f1e6b2&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SeowonPark001/SeowonPark001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
