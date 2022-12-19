@@ -27,9 +27,9 @@
 <img src="https://img.shields.io/badge/Django-07B566?style=flat-square&logo=django&logoColor=white"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeowonPark001&hide=css&layout=compact&bg_color=c1a7e2,f1e6b2&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeowonPark001&hide=css&layout=compact&border_color=e0c1ff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeowonPark001&show_icons=true&icon_color=ffffff&count_private=true&bg_color=0,c1a7e2,f1e6b2&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeowonPark001&show_icons=true&icon_color=ffffff&count_private=true&border_color=e0c1ff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
