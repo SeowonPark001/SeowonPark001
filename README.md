@@ -4,8 +4,8 @@
 
 📫 My Pages 📫<br>
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Velog-58F4CD?style=flat-square&logo=velog&logoColor=white"/>
-
+<!-- 
+<img src="https://img.shields.io/badge/Velog-58F4CD?style=flat-square&logo=velog&logoColor=white"/> -->
 
 📝 What I studied...📝<br>
 <img src="https://img.shields.io/badge/Android-93DD75?style=flat-square&logo=android&logoColor=white"/>
@@ -20,13 +20,12 @@
 <img src="https://img.shields.io/badge/C-569EEA?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-02F2FF?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-1581ED?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-07B566?style=flat-square&logo=django&logoColor=white"/>
 
 
 🌱 What I'm currently learning...🌱<br>
-<img src="https://img.shields.io/badge/Swift-F96502?style=flat-square&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-333333?style=flat-square&logo=ios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F96502?style=flat-square&logo=swift&logoColor=white"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeowonPark001&hide=css&layout=compact&border_color=e0c1ff)](https://github.com/anuraghazra/github-readme-stats)
