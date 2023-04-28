@@ -1,6 +1,6 @@
 ### Hi👋 Welcome to Seowon Park's Github!🖥
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeowonPark001&count_bg=%23F1E6B2&title_bg=%23C1A7E2&icon=opsgenie.svg&icon_color=%23F1E6B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeowonPark001&count_bg=%23FFF988&title_bg=%23C893EB&icon=opsgenie.svg&icon_color=%23FFFBB9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 📫 My Pages 📫<br>
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/>
